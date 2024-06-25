@@ -15,7 +15,7 @@ This Python script automates the extraction of financial data from Yahoo Finance
 - Pandas
 
 Ensure you have the necessary Python packages installed:
-```pip install selenium pandas
+```pip install selenium pandas```
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The script converts this text into a structured Pandas dataframe and cleans the 
 
 ## Author
 
-Muykheng Long
+Muykheng Long -- https://github.com/muykhenglong
